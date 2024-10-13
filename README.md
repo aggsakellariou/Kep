@@ -8,7 +8,6 @@ This is a desktop application designed to manage and log citizen requests at ÎšÎ
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -56,7 +55,3 @@ This is a desktop application designed to manage and log citizen requests at ÎšÎ
 
 4. **Search for requests**:
    - Use the search functionality to find requests based on various criteria (e.g., request type, date, etc.).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
